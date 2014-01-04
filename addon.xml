@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.linux.vpnchoose"
+       name="VPNChoose"
+       version="0.1.0"
+       provider-name="vladikoff">
+  <extension point="xbmc.python.script"
+             library="default.py" />
+  <extension point="xbmc.addon.metadata">
+  	<language>en</language>
+    <platform>linux</platform>
+    <summary lang="en">VPNChoose</summary>
+    <description lang="en">VPNChoose</description>
+  </extension>
+</addon>
