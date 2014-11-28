@@ -5,7 +5,6 @@ import xbmcgui
 import time
 import subprocess
 
-#enable localization
 getLS   = sys.modules[ "__main__" ].__language__
 __cwd__ = sys.modules[ "__main__" ].__cwd__
 
